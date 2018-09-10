@@ -1,6 +1,6 @@
 baseurl = "https://ianbibby.github.io"
-title = "Kiera"
-copyright = "Copyright &copy; 2017 - Author Name"
+title = "Coding Blog"
+copyright = "Copyright &copy; 2017 - Ian Bibby"
 canonifyurls = true
 theme = "kiera"
 
@@ -11,15 +11,15 @@ enableEmoji = true
 pygmentsCodeFences = true
 
 [author]
-    name = ""
-    github = ""
+    name = "Ian Bibby"
+    github = "ianbibby"
     gitlab = ""
-    linkedin = ""
+    linkedin = "ianbibby"
     facebook = ""
     twitter = ""
-    instagram = ""
+    instagram = "ianbibby"
 
 [params]
-    tagline = "A Hugo theme for creative and technical writing"
+    tagline = "Musing on coding and distributed systems"
 
 
