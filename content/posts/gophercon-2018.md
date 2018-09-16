@@ -1,7 +1,7 @@
 +++
 title = "Gophercon 2018"
 date = 2018-09-16T10:43:54-07:00
-draft = true
+draft = false
 tags = ["gophercon"]
 categories = ["golang"]
 +++
